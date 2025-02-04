@@ -19,7 +19,6 @@ Aqui no meu GitHub, você encontrará projetos que refletem minha evolução na 
             src="https://custom-icon-badges.demolab.com/github/followers/DevKelvinLima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
 
 ### 🔧 Linguagens e Tecnologias
 
@@ -84,4 +83,3 @@ Aqui no meu GitHub, você encontrará projetos que refletem minha evolução na 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKelvinLima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-</p>
