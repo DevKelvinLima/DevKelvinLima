@@ -5,7 +5,7 @@
 Me chamo Kelvin Lima, tenho 33 anos e sou do Ceará. Concluí o ensino médio no PSJ, com o curso técnico em informática. Sou apaixonado por tecnologia e sempre fui fascinado por como a programação pode transformar ideias em soluções reais. Atualmente, estou focado em me tornar um Desenvolvedor Front-End Júnior, aprimorando minhas habilidades em HTML, CSS e JavaScript, além de explorar frameworks modernos como React.js.
 Aqui no meu GitHub, você encontrará projetos que refletem minha evolução na área, desde aplicações simples até interfaces mais dinâmicas e interativas. Meu objetivo é construir experiências digitais intuitivas e responsivas, sempre buscando boas práticas de código e usabilidade.
 
-   <a href="https://github.com/DevKelvinLima?tab=repositories&sort=stargazers">
+<a href="https://github.com/DevKelvinLima?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -21,9 +21,7 @@ Aqui no meu GitHub, você encontrará projetos que refletem minha evolução na 
     </a>
 </p>
 
----
-
-### Linguagens e Tecnologias
+### 🔧 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -66,22 +64,24 @@ Aqui no meu GitHub, você encontrará projetos que refletem minha evolução na 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DevKelvinLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKelvinLima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+/>
 
 </p>
