@@ -1,5 +1,7 @@
 # 🤖 Kelvin Lima
 
+Bem vindo ao meu perfil GitHub 👋
+
 **`Desenvolvedor Front End Junior`**
 
 Me chamo Kelvin Lima, tenho 33 anos e sou do Ceará. Sou Desenvolvedor Front End Junior. Sou apaixonado por tecnologia e sempre fui fascinado por como a programação pode transformar ideias em soluções reais. Atualmente, domino as linguagens HTML, CSS e JavaScript, além de explorar frameworks modernos como React.js e Node.js.
